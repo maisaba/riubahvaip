@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soothuseiv.zyhlovewxf.club/sitemap.xml
